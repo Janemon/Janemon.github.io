@@ -1,8 +1,5 @@
 theme: jekyll-theme-leap-day
 encoding: utf-8
-<<<<<<< HEAD
 baseurl: /janemon.github.io
 
-=======
-baseurl: /
->>>>>>> 81f55be94765ea9137ae18e5d486a68e7eb035e9
+
