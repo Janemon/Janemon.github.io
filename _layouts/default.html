@@ -1,10 +1,16 @@
 <!DOCTYPE html>
-<html lane='en'>
-  <head>
-    <meat http-equiv='content-type' content='text/html' charset='utf-8'>
-    <title>{{ page.title}}</title>
-  </head>
+<html>
+
+  {% include head.html %}
+
   <body>
-    {{ content }} 
+
+    <main>
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
   </body>
+
 </html>
