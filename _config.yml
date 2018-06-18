@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: Janemon 
-profile_img: "/_screenshots/screenshot-1.png"
+profile_img: ../_screenshots/screenshot-1.png
 profile: "那一天,那个人说了一句话:' Joy maybe end in Grief.'" 
 social:
   email: janemon2331@gmail.com
