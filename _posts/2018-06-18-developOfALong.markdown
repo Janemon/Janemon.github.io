@@ -22,7 +22,7 @@ hello
 Meta Property=og标签是什么呢?
 og是一种新的HTTP头部标记，即Open Graph Protocol：
 
-The Open Graph Protocol enables any web page to become a rich object in a social graph.+ n3 }
+The Open Graph Protocol enables any web page to become a rich object in a social graph.+ n3 
 
 即这种协议可以让网页成为一个“富媒体对象”。
 用了Meta Property=og标签，就是你同意了网页内容可以被其他社会化网站引用等，目前这种协议被SNS网站如Fackbook、renren采用。
