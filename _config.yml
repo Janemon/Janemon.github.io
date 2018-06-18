@@ -1,14 +1,14 @@
 # Site settings
-email: 
+email: janemon2331@gmail.com
 baseurl: ""
 paginate: 5
-paginate_path: "/blog/page-:num"
+paginate_path: "/blog/page:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
+title: Janemon's Blog 
+description: programming 
+url: "janemon2331@gmail.com"
 twitter_username: 
 default_img: 
 
