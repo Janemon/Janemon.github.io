@@ -7,7 +7,6 @@ categories:
 description:
 image: https://picsum.photos/2000/1200/?random
 image-sm: https://picsum.photos/500/300/?random
-pro-image: /_screenshots/screenshot-1.png
 ---
 
 Hello, this is my first Blog post! Hope you enjoy it.
